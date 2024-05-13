@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<img src="https://REX004.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarov.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 <h1>
   hey there
@@ -24,7 +24,7 @@
 I'm a beginner mobile developer using Kotlin <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :telescope: I am passionate about creating innovative and user-friendly applications for mobile devices that can improve people's lives and make them more interesting.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)]((https://t.me/Kointg))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-REX004-blue?style=flat&logo=Telegram&logoColor=white)]((https://t.me/Kointg))
 
 ---
 
