@@ -43,6 +43,6 @@ I'm a beginner mobile developer using Kotlin <img src="https://media.giphy.com/m
 
 ### :handshake: Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/your-github-username)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/REX004)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Kointg)
 
