@@ -39,7 +39,7 @@ I'm a beginner mobile developer using Kotlin <img src="https://media.giphy.com/m
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?REX004=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=REX004&theme=radical&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### :handshake: Connect with me:
 
